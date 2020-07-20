@@ -29271,7 +29271,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-menu-1 {margin-top: -54px; margin-right: 1px; margin-bottom: 29px} }
 @media (max-width: 767px){ .u-header .u-image-1 {margin-left: 0}
 .u-header .u-menu-1 {margin-top: -54px; margin-right: 0} }
-
+@media (max-width: 575px){ .u-header .u-image-1 {width: auto} }
  .u-footer .u-sheet-1 {min-height: 718px}
 .u-footer .u-form-1 {height: 313px; width: 912px; margin: 20px auto 0}
 .u-footer .u-btn-1 {border-style: none; background-image: none}

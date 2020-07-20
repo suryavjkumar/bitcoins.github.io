@@ -1,14 +1,16 @@
 .u-section-1 {background-image: url("images/bitcoin-mining-software-5b73752fc9e77c0057beb28f.jpg"); background-position: 50% 50%}
 .u-section-1 .u-sheet-1 {min-height: 761px}
-.u-section-1 .u-text-1 {font-size: 3.75rem; font-weight: 100; width: 645px; margin: 60px auto 0} 
+.u-section-1 .u-text-1 {font-size: 3.75rem; font-weight: 100; margin: 60px 671px 60px 24px} 
 
 @media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 500px}
-.u-section-1 .u-text-1 {font-weight: 700; font-size: 2.25rem; margin: 91px 0 60px} }
+.u-section-1 .u-text-1 {font-weight: 700; font-size: 2.25rem; width: auto; margin-right: 646px; margin-left: 35px} }
 
-@media (max-width: 767px){ .u-section-1 .u-text-1 {font-size: 3rem; width: 540px} }
+@media (max-width: 991px){ .u-section-1 .u-text-1 {margin-left: 0; margin-right: 461px} }
+
+@media (max-width: 767px){ .u-section-1 .u-text-1 {font-size: 3rem; margin-right: 281px} }
 
 @media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 432px}
-.u-section-1 .u-text-1 {font-size: 1.875rem; width: 340px} }.u-section-2 {background-image: url("images/50e2d54b4850b108f5d084609629317e113fdce15b4c704c7c2a79d79e48c55f_1280.jpg")}
+.u-section-1 .u-text-1 {font-size: 1.875rem; margin-right: 9px} }.u-section-2 {background-image: url("images/50e2d54b4850b108f5d084609629317e113fdce15b4c704c7c2a79d79e48c55f_1280.jpg")}
 .u-section-2 .u-sheet-1 {min-height: 464px}
 .u-section-2 .u-table-1 {width: 1229px; margin: 30px -45px}
 .u-block-cdce-46 {font-weight: 700}
